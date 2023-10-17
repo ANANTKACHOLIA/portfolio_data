@@ -1,4 +1,4 @@
-,Stock,Price,Qty,buy_price,sell_price,buy_date,balance
-0,METROBRAND.NS,0,0,0,0,,50000.0
-1,NBCC.NS,0,0,0,0,,
-2,NSLNISP.NS,0,0,0,0,,
+,Stock,Qty,buy_price,sell_price,buy_date,balance
+0,METROBRAND.NS,0,0,0,,25048.4
+1,NBCC.NS,0,0,0,,
+2,NSLNISP.NS,478,52.2,0,2023-10-13 00:00:00,
