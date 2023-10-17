@@ -1,4 +1,4 @@
-Stock,Price,Qty,buy_price,sell_price,buy_date
+Stock,Price,Qty,buy_price,sell_price,buy_date,balance
 METROBRAND.NS,0,0,0,0,,50000
 NBCC.NS,0,0,0,0,,,
 NSLNISP.NS,0,0,0,0,,,
