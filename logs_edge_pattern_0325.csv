@@ -1,2 +1,2 @@
-Stock,Qty,short_price,square_off_price,entry_date,settle_date,profit,tradecode
-,,,,,,,
+Stock,Qty,entry_price,square_off_price,entry_date,settle_date,profit,tradecode,type
+,,,,,,,,
