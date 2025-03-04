@@ -1,5 +1,3 @@
-Stock,Qty,short_price,square_off_price,buy_date,balance,trades
-IRCTC,0,,,,200000.0,0
-HEROMOTOCO,0,,,,,0
-POLYCAB,0,,,,,0
-SAIL,0,,,,,0
+Stock,Qty,short_price,square_off_price,entry_date,settle_date,profit,tradecode
+,,,,,,,
+IRCTC,0.0,673.0,673.0,2025-03-04 06:19:09.835397,2025-03-04 06:19:12.158279,0.0,IRC_04/03/25_EDGE
