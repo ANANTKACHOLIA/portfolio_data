@@ -1,3 +1,3 @@
 Stock,Qty,entry_price,square_off_price,entry_date,settle_date,profit,tradecode,type
 ,,,,,,,,
-POLYCAB,0.0,5095.0,5061.1,2025-03-07 04:57:34.474241,2025-03-07 09:55:48.109494,105.0,POL_07/03/25_EDGE_S,S
+POLYCAB,0.0,5095.0,5061.1,2025-03-07 09:15,2025-03-07 15:15,105.0,POL_07/03/25_EDGE_S,S
